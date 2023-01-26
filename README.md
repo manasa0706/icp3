@@ -5,4 +5,4 @@ Program 2 is to create a 4 by 5 vector whose values are in the range 20 with flo
     
     
     
-    video linl:https://photos.google.com/share/AF1QipO7pEBvd1CuC_EguTtaK3b0dPXDWX1kly7_QW-xHtOH9KIa9J76FZ1AvoExexcGxg?pli=1&key=MXItVDFYSW9fVUpTVlRYb3lUR09XTUR1X1BJc0Zn
+    video link:https://photos.google.com/share/AF1QipO7pEBvd1CuC_EguTtaK3b0dPXDWX1kly7_QW-xHtOH9KIa9J76FZ1AvoExexcGxg?pli=1&key=MXItVDFYSW9fVUpTVlRYb3lUR09XTUR1X1BJc0Zn
